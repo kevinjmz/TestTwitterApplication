@@ -5,7 +5,7 @@ This app utilizes two APIs -- Twitter REST API-- and --Google Speech Recognition
 
 HOW IT WORKS:
 1.-The app either recognizes a previously authenticated Twitter and goes straight to the main activity 
-![Alt text]("https://github.com/kevinjmz/TestTwitterApp/blob/Final/WhatsApp%20Image%202017-11-30%20at%209.57.16%20AM%20(3).jpeg"  "Optional Title")
+![Alt text](https://github.com/kevinjmz/TestTwitterApp/blob/master/WhatsApp%20Image%202017-11-30%20at%209.57.16%20AM%20(3).jpeg?raw=true "Optional Title")
 
 OR
 
