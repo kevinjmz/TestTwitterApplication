@@ -7,10 +7,10 @@ HOW IT WORKS:
 1.-The app either recognizes a previously authenticated Twitter and goes straight to the main activity 
 <img src="https://github.com/kevinjmz/TestTwitterApp/blob/master/WhatsApp%20Image%202017-11-30%20at%209.57.16%20AM%20(3).jpeg" width="260">
 
-#
-OR
-#
-authenticates the user according to a previously created Twitter account.
+
+OR/
+
+authenticates the user according to a previously created Twitter account./
 <img src="https://github.com/kevinjmz/TestTwitterApp/blob/master/WhatsApp%20Image%202017-11-30%20at%209.57.16%20AM%20(4).jpeg" width="260">
 
 
